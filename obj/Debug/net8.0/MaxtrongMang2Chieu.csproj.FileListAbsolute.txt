@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\bin\Debug\net8.0\MaxtrongMang2Chieu.exe
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\bin\Debug\net8.0\MaxtrongMang2Chieu.deps.json
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\bin\Debug\net8.0\MaxtrongMang2Chieu.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\bin\Debug\net8.0\MaxtrongMang2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\bin\Debug\net8.0\MaxtrongMang2Chieu.pdb
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\refint\MaxtrongMang2Chieu.dll
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.pdb
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\MaxtrongMang2Chieu.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\MaxtrongMang2Chieu\obj\Debug\net8.0\ref\MaxtrongMang2Chieu.dll
